@@ -1,0 +1,45 @@
+REFLECTIONS LESSON 1
+
+1. How did viewing a difference between two versions of a file
+		helped you see the bug that was introduced?
+
+	I learned that you can easily analyze what went wrong
+	because the computer already handed you the areas in which
+	the two versions were somewhat different form each other when it
+	was compared, thus saving a lot of time and effort rather
+	than searching for the difference in each version manually.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	You can easily go back to a point in time where the version of your program is working, and easily debug problems or easily go back to a point where you changed or erased something and eventually needed it back again whether to use it or just analyze it for some matter.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having 			versions automatically saved, like Google Docs does?
+
+	Pros
+	-you will have more control on the commits, thus
+		being able to understand the history more
+	-your commits would be more meaningful rather than
+		random commits in which some arent really necessary
+
+	Cons
+	-just as the lesson said, it is decision-based, you
+	can either forget to commit on rather important things
+	and such. So it is up to the person if he/she can commit the program well.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like 		Google Docs, treat each file separately?
+
+	because git is more on programming, and codes
+	have rather interrelated files, in which one change on a file can significantly affect other files in which it is related to.
+
+5.How can you use the commands git log and git diff to view the history of files?
+
+	like when you need to see the changes you did for the past versions of your program
+
+6. How might using version control make you more confident to make changes that could break something?
+
+	I wont , there would be errror messages so i would maybe understand what im doing wrong or something.
+
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+	Versioning code for android studio
